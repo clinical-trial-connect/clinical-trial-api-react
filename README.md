@@ -1,2 +1,3 @@
-# clinical-trial-api-react
-React client for Clinical Trial GraphQL API
+# React client for Clinical Trial GraphQL API
+
+Coming soon.
